@@ -40,3 +40,24 @@
     text-decoration: none;
     color: #C0992A;
 }
+
+.texto1{
+    text-align: center;
+    font-size: 30px;
+}
+
+.content-intertitle{
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.container{
+    display: inline-block;
+    text-align: center;
+}
+
+
+.desktop-image, .web-image, .head-content-image, .mobile-image{
+    text-align: center;
+}
