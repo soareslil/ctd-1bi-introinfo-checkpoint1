@@ -5,6 +5,19 @@
     font-family: 'Nunito', sans-serif;
 }
 
+/*ul {
+     diplay: inline-block;
+     vertical-align: top;
+     width: 20%;
+     margin-rigth:10px;
+}
+*/
+
+.imgp-historia{
+    height: 550px; 
+    width: 100%;
+}
+
 .header{
     background-color: blue;
     font-weight: bold;
@@ -33,6 +46,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 30px;
+
 }
 
 
@@ -40,3 +54,35 @@
     text-decoration: none;
     color: #C0992A;
 }
+
+.footer{
+  text-decoration: none ;
+  color: #C0992A;
+}
+
+#github1{
+    float: left;
+    margin-left:20px;
+  }
+  
+  #img1-historia{
+    float: left;
+    margin-left:20px;
+  }
+  
+  #img2-historia{
+    float:left;
+    margin-left:20px;
+  }
+
+  #img3-historia{
+    float: left;
+    margin-left:20px;
+  }
+
+  #img4-historia{
+    float: left;
+    margin-left:20px;
+  }
+
+
