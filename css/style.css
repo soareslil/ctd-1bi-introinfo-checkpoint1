@@ -41,6 +41,11 @@
     color: #C0992A;
 }
 
+.a-footer{
+    text-decoration: none;
+    color:#C0992A
+}
+
 .texto1{
     text-align: center;
     font-size: 30px;
@@ -60,4 +65,8 @@
 
 .desktop-image, .web-image, .head-content-image, .mobile-image{
     text-align: center;
+}
+
+.container{
+    background-color: red;
 }
