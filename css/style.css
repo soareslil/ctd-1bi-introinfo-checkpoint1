@@ -40,3 +40,32 @@
     text-decoration: none;
     color: #C0992A;
 }
+
+
+#github1{
+    float: left;
+    margin-left:20px;
+  }
+  
+.listaord{
+  background: #ffffff;
+  padding: 20px;
+}
+
+.carlos_img{
+    max-width: 100%;
+    display:block
+  }
+  
+  
+  .caixaImg{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800;
+    margin: o auto;
+  }
+  
+  .caixaImg > div{
+    flex: 1 1 200px;  
+    margin: 10px;
+  }
