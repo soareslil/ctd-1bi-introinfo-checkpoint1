@@ -46,6 +46,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 30px;
+    
 
 }
 
@@ -55,7 +56,7 @@
     color: #C0992A;
 }
 
-.footer{
+.a-footer{
   text-decoration: none ;
   color: #C0992A;
 }
@@ -65,24 +66,30 @@
     margin-left:20px;
   }
   
-  #img1-historia{
-    float: left;
-    margin-left:20px;
+.listaord{
+  background: #ffffff;
+  padding: 20px;
+}
+
+.carlos_img{
+    max-width: 200%;
+    display:block
+  }
+
+.imagem-principal {
+  width: 100%;
+}
+  
+  
+  .caixaImg{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800;
+    margin: o auto;
   }
   
-  #img2-historia{
-    float:left;
-    margin-left:20px;
+  .caixaImg > div{
+    flex: 1 1 200px;  
+    margin: 10px;
   }
-
-  #img3-historia{
-    float: left;
-    margin-left:20px;
-  }
-
-  #img4-historia{
-    float: left;
-    margin-left:20px;
-  }
-
 
