@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;1,400&display=swap');
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Nunito', sans-serif;
+}
+
+/*ul {
+     diplay: inline-block;
+     vertical-align: top;
+     width: 20%;
+     margin-rigth:10px;
+}
+*/
+
+.imgp-historia{
+    height: 550px; 
+    width: 100%;
+}
+
+.header{
+    background-color: blue;
+    font-weight: bold;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+
+.h1-index{
+    padding-top: 40px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* cores: preto, branco e azul marinho turqueza */
+
+.footer{
+    background-color: blue;
+    color: #C0992A;
+    font-weight: bold;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    
+
+}
+
+
+.a-header{
+    text-decoration: none;
+    color: #C0992A;
+}
+
+.a-footer{
+  text-decoration: none ;
+  color: #C0992A;
+}
+
+#github1{
+    float: left;
+    margin-left:20px;
+  }
+  
+.listaord{
+  background: #ffffff;
+  padding: 20px;
+}
+
+.carlos_img{
+    max-width: 200%;
+    display:block
+  }
+
+.imagem-principal {
+  width: 100%;
+}
+  
+  
+  .caixaImg{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800;
+    margin: o auto;
+  }
+  
+  .caixaImg > div{
+    flex: 1 1 200px;  
+    margin: 10px;
+  }
