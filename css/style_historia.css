@@ -92,3 +92,11 @@
     flex: 1 1 200px;  
     margin: 10px;
   }
+
+
+  .a-home{
+    text-decoration: none;
+    color: black;
+    display: flex;
+    justify-content: center;
+  }
