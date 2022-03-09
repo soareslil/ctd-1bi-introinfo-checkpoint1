@@ -3,7 +3,7 @@
     margin:0;
     padding:0;
     font-family: 'Nunito', sans-serif;
-}
+  }
 
 .header{
     background-color: blue;
@@ -33,9 +33,14 @@
     justify-content: space-between;
     align-items: center;
     padding: 30px;
+  
+  
+  }
+
+.a-footer{
+    text-decoration: none;
+    color: #C0992A;  
 }
-
-
 .a-header{
     text-decoration: none;
     color: #C0992A;
